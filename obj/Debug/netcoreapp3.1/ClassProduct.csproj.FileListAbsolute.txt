@@ -1,0 +1,13 @@
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\obj\Debug\netcoreapp3.1\ClassProduct.csprojAssemblyReference.cache
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\obj\Debug\netcoreapp3.1\ClassProduct.AssemblyInfoInputs.cache
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\obj\Debug\netcoreapp3.1\ClassProduct.AssemblyInfo.cs
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\obj\Debug\netcoreapp3.1\ClassProduct.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\bin\Debug\netcoreapp3.1\ClassProduct.exe
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\bin\Debug\netcoreapp3.1\ClassProduct.deps.json
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\bin\Debug\netcoreapp3.1\ClassProduct.runtimeconfig.json
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\bin\Debug\netcoreapp3.1\ClassProduct.runtimeconfig.dev.json
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\bin\Debug\netcoreapp3.1\ClassProduct.dll
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\bin\Debug\netcoreapp3.1\ClassProduct.pdb
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\obj\Debug\netcoreapp3.1\ClassProduct.dll
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\obj\Debug\netcoreapp3.1\ClassProduct.pdb
+C:\Users\Microsoft\source\repos\Kampintro\ClassProduct\obj\Debug\netcoreapp3.1\ClassProduct.genruntimeconfig.cache
